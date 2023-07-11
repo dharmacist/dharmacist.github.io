@@ -1,11 +1,11 @@
 {
-    "name": "animated_responsive_layout",
-    "short_name": "animated_responsive_layout",
+    "name": "Concept",
+    "short_name": "Concept",
     "start_url": "",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#2E2E40",
+    "theme_color": "#1CA56F",
+    "description": "A conceptual Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
