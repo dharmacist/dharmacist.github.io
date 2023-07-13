@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "edcf5735e989840963977e53f9f4c5d3",
-"assets/AssetManifest.json": "3e7fc7051c85ae354fbe835975da7322",
+const RESOURCES = {"assets/AssetManifest.bin": "846f20628259e61896da887b42a64a3e",
+"assets/AssetManifest.json": "56798bf29da20ed0210d74f8384e43b5",
 "assets/assets/avatar_1.png": "67340c8d37138d96fb713526c568abe1",
 "assets/assets/avatar_2.png": "9cd82ac1eb4f0eb80c12f99bbbaca400",
 "assets/assets/avatar_3.png": "9481b06c3baec70ad9476df652a313e1",
@@ -14,6 +14,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "edcf5735e989840963977e53f9f4c5d3
 "assets/assets/avatar_7.png": "89dfb0b9532e06d51a60ed3968f57621",
 "assets/assets/en-fip-blk.png": "015c6e1b9ceb9d2a0d79608879d13ee7",
 "assets/assets/en-fip-wht.png": "174b2d47b13299a5e931f67efa108673",
+"assets/assets/fonts/Lato/Lato-Bold.ttf": "24b516c266d7341c954cb2918f1c8f38",
+"assets/assets/fonts/Lato/Lato-Regular.ttf": "122dd68d69fe9587e062d20d9ff5de2a",
+"assets/assets/fonts/Noto_Sans/NotoSans-Bold.ttf": "b20e2d260790596b6f6624a42b9c7833",
+"assets/assets/fonts/Noto_Sans/NotoSans-Italic.ttf": "d50ffd77a2f06bfbc2a3920791f514e3",
+"assets/assets/fonts/Noto_Sans/NotoSans-Regular.ttf": "2a1861cd1ca7030ae9bb29f3192bb1e3",
 "assets/avatar_1.png": "67340c8d37138d96fb713526c568abe1",
 "assets/avatar_2.png": "9cd82ac1eb4f0eb80c12f99bbbaca400",
 "assets/avatar_3.png": "9481b06c3baec70ad9476df652a313e1",
@@ -25,8 +30,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "edcf5735e989840963977e53f9f4c5d3
 "assets/en-fip-blk@3x.png": "015c6e1b9ceb9d2a0d79608879d13ee7",
 "assets/en-fip-wht.png": "174b2d47b13299a5e931f67efa108673",
 "assets/en-fip-wht@3x.png": "174b2d47b13299a5e931f67efa108673",
-"assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
-"assets/fonts/MaterialIcons-Regular.otf": "45e1bff4f47126f9351a0dc0f569bf09",
+"assets/FontManifest.json": "bc6870a0758d142aaf4da5822ac4d5aa",
+"assets/fonts/MaterialIcons-Regular.otf": "4634e271fd15d3185fb74a2e255e3fe7",
 "assets/NOTICES": "14b1214a5ed207c4da1ae9f2bd2713cc",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "f2163b9d4e6f1ea52063f498c8878bb9",
 "assets/packages/wakelock_plus/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
@@ -48,9 +53,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "edcf5735e989840963977e53f9f4c5d3
 "icons/Icon-512.png": "314ff3b98866f40b7bf20b4a4fbb74e6",
 "icons/Icon-maskable-192.png": "c15fa549f24405b6fe321e29816427ee",
 "icons/Icon-maskable-512.png": "314ff3b98866f40b7bf20b4a4fbb74e6",
-"index.html": "8ca790793364c837a2c8f4262e55bd5e",
-"/": "8ca790793364c837a2c8f4262e55bd5e",
-"main.dart.js": "56330e31e31c626900ff91a2b69f3708",
+"index.html": "0fa80fac0c3f40f95400f073d91645ca",
+"/": "0fa80fac0c3f40f95400f073d91645ca",
+"main.dart.js": "326d31a3a33104e1d6905d6566ff449b",
 "manifest.json": "1eb4610ecc1e00fd6d59145728904dcb",
 "version.json": "f805ea89b856a750d514a15364fd5e67"};
 // The application shell files that are downloaded before a service worker can
